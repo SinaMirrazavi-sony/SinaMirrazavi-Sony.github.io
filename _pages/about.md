@@ -16,7 +16,7 @@ redirect_from:
 <li>[May 2019] At ICRA 2019, We, <a href="http://lasa.epfl.ch/people/member.php?SCIPER=115671">Aude Billard</a>, <a href="https://nbfigueroa.github.io/">Nadia Figueroa</a>, <a href="http://lasa.epfl.ch/people/member.php?SCIPER=274454">Lukas Huber</a> and I, gave a tutorial on "<a href="https://epfl-lasa.github.io/TutorialICRA2019.io/">Dynamical System-based Learning from Demonstration</a>".&nbsp;</li>
 <li>[April 2019]&nbsp;I started working at <a href="Nnaisense.com/">Nnaisense</a> as a research scienticst.</li>
 <li>[March 2019] I have been selected as a finalist for the euRobotics George Giralt PhD award 2019 edition (Best European PhD Thesis in Robotics).</li>
-<li>[May 2018] I started my Postdoc at EPFL LASA.</li>
+<li>[May 2018] I started as the postdoc at EPFL LASA.</li>
 <li>[May 2018] I did my public defence at EPFL. You can find the full video here:</li>
 </ul>
 <p><iframe src="https://www.youtube.com/embed/fiVi1p35hrg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
@@ -32,3 +32,4 @@ redirect_from:
 <li>[April 2015] Top 5 finalists in the <a href="https://www.kuka.com/en-us/future-production/research-and-development/kuka-innovation-award/kuka-innovation-award-2017"> KUKA Innovation Award.</a></li>
 </ul>
 <p><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FKUKA.Robotics%2Fvideos%2F10152718384676956%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></p>
+<li>[March 2014] I started my Phd at EPFL LASA.</li>
