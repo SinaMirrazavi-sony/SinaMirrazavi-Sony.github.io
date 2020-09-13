@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
- I am a robotic engineer at Sony. Previously I was working as a research scientist with [Marco Gallieri](https://scholar.google.co.uk/citations?user=moNjsXoAAAAJ&hl=en) and [Jan Koutnik](https://nnaisense.com/company/) at [Nnaisense](https://nnaisense.com/). I obtained a PhD in Robotics from EPFL at [the learning algorithms and system laboratory](http://lasa.epfl.ch/), under the supervision of [Prof. Aude Billard](http://lasa.epfl.ch/people/member.php?SCIPER=115671). During my Phd at LASA, I was a part of [Cogimon](https://cogimon.eu/) and [Alterego](http://www.euromov.eu/alterego/homepage) and later, during my postdoc, I was contributing to [crowdbot](http://crowdbot.eu/). I hold Msc in Mechatronics and BSc in Mechanical engineering from [Amirkabir university of technology](https://aut.ac.ir/en/). I am mainly interested in endowing robotic system with a capability to move very fast while being safe for human-robot interactions. 
+ I am a robotic engineer at Sony. Previously I was working as a research scientist with [Marco Gallieri](https://scholar.google.co.uk/citations?user=moNjsXoAAAAJ&hl=en) and [Jan Koutnik](https://nnaisense.com/company/) at [Nnaisense](https://nnaisense.com/). I obtained a PhD in Robotics from EPFL at [the learning algorithms and system laboratory](http://lasa.epfl.ch/), under the supervision of [Prof. Aude Billard](http://lasa.epfl.ch/people/member.php?SCIPER=115671). During my Phd at LASA, I was a part of [Cogimon](https://cogimon.eu/) and [Alterego](http://www.euromov.eu/alterego/homepage) and later, during my postdoc, I was contributing to [crowdbot](http://crowdbot.eu/). I hold MSc in Mechatronics and BSc in Mechanical engineering from [Amirkabir university of technology](https://aut.ac.ir/en/). I am mainly interested in endowing robotic system with a capability to move very fast while being safe for human-robot interactions. 
 <h1>&nbsp;</h1>
 <h1>News</h1>
 <ul>
 <li>[July 2020] I started working at Sony as a robotic engineer.&nbsp;</li>
 <li>[May 2019] At ICRA 2019, We, <a href="http://lasa.epfl.ch/people/member.php?SCIPER=115671">Aude Billard</a>, <a href="https://nbfigueroa.github.io/">Nadia Figueroa</a>, <a href="http://lasa.epfl.ch/people/member.php?SCIPER=274454">Lukas Huber</a> and I, gave a tutorial on "<a href="https://epfl-lasa.github.io/TutorialICRA2019.io/">Dynamical System-based Learning from Demonstration</a>".&nbsp;</li>
-<li>[April 2019]&nbsp;I started working at <a href="Nnaisense.com/">Nnaisense</a> a research scienticst.</li>
+<li>[April 2019]&nbsp;I started working at <a href="Nnaisense.com/">Nnaisense</a> as a research scienticst.</li>
 <li>[March 2019] I have been selected as a finalist for the euRobotics George Giralt PhD award 2019 edition (Best European PhD Thesis in Robotics).</li>
 <li>[May 2018] I started at Postdoc EPFL LASA.</li>
 <li>[May 2018] I did my public defence at EPFL. You can find the full video here:</li>
